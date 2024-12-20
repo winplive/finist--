@@ -1,0 +1,22 @@
+div{
+    border:solid yellow;
+    width:800px;
+    margin: 5% 5% 5% 5%;
+}
+.one{
+    background-color: antiquewhite;
+}
+.two{
+    height:200px;
+    background-color: lightblue;
+}
+.three{
+    background-color: lightgrey;
+}
+h1{
+    background-color: white;
+}
+h3{
+    background-color: aquamarine;
+}
+
